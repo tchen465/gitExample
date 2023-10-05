@@ -1,2 +1,3 @@
+role,NetID,LastName,FirstName
 boss,tchen465,Chen,Tuocheng
 employee, bchen342, Chen, Baiheng
